@@ -4,7 +4,7 @@ A full-stack, real-time trading dashboard that aggregates and displays candlesti
 
 The dashboard provides up to **1 year of historical backfill** and merges it with **live WebSocket/polling updates** for a seamless charting experience.
 
-![Dashboard Preview](https://raw.githubusercontent.com/sannithshetty/tick/main/frontend/public/vite.svg) *(Replace with actual screenshot if desired)*
+![Dashboard Preview](frontend/public/preview.png) *(Replace with actual screenshot if desired)*
 
 ---
 
